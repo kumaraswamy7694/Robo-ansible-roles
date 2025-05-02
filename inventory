@@ -9,7 +9,8 @@ web.kumaraswamy.shop
 
 
 [redis]
-redis.kumaraswamy.shop
+3.92.191.188 ansible_user=centos ansible_password=DevOps321 component=redis
+
 
 
 [user]
