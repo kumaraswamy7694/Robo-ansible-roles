@@ -1,38 +1,38 @@
 [mongodb]
-mongodb.kumaraswamy.xyz
+mongodb.kumaraswamy.shop
 
 
 [catalogue]
-catalogue.kumaraswamy.xyz
+catalogue.kumaraswamy.shop
 
 
 [web]
-web.kumaraswamy.xyz
+web.kumaraswamy.shop
 
 
 [redis]
-redis.kumaraswamy.xyz
+redis.kumaraswamy.shop
 
 
 [user]
-user.kumaraswamy.xyz
+user.kumaraswamy.shop
 
 
 [cart]
-cart.kumaraswamy.xyz
+cart.kumaraswamy.shop
 
 
 [mysql]
-mysql.kumaraswamy.xyz
+mysql.kumaraswamy.shop
 
 
 [shipping]
-shipping.kumaraswamy.xyz
+shipping.kumaraswamy.shop
 
 
 [rabbitmq]
-rabbitmq.kumaraswamy.xyz
+rabbitmq.kumaraswamy.shop
 
 
 [payment]
-payment.kumaraswamy.xyz
+payment.kumaraswamy.shop
