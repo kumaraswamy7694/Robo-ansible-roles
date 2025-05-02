@@ -2,8 +2,7 @@
 44.200.75.14 ansible_user=centos ansible_password=DevOps321 component=mongodb
 
 [catalogue]
-catalogue.kumaraswamy.shop
-
+54.163.50.30 ansible_user=centos ansible_password=DevOps321 component=catalogue
 
 [web]
 web.kumaraswamy.shop
