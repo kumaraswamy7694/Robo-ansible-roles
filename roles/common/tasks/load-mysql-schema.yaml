@@ -4,4 +4,4 @@
     state: installed
 
 - name: load mysql schema
-  ansible.builtin.shell: mysql -h mysql.kumaraswamy.xyz -uroot -pRoboShop@1 < /app/schema/{{component}}.sql 
+  ansible.builtin.shell: mysql -h mysql.kumaraswamy.shop -uroot -pRoboShop@1 < /app/schema/{{component}}.sql 
