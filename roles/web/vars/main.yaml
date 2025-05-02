@@ -1,9 +1,9 @@
-CATALOGUE_HOST: catalogue.kumaraswamy.xyz
+CATALOGUE_HOST: catalogue.kumaraswamy.shop
 
-USER_HOST: user.kumaraswamy.xyz
+USER_HOST: user.kumaraswamy.shop
 
-SHIPPING_HOST: shipping.kumaraswamy.xyz
+SHIPPING_HOST: shipping.kumaraswamy.shop  
 
-CART_HOST: cart.kumaraswamy.xyz
+CART_HOST: cart.kumaraswamy.shop
 
-PAYMENT_HOST: payment.kumaraswamy.xyz
+PAYMENT_HOST: payment.kumaraswamy.shop
